@@ -1,0 +1,15 @@
+fastapi[standard]
+uvicorn
+pydantic
+pyjwt
+sqlalchemy
+asyncpg
+alembic
+dotenv
+python-multipart
+passlib
+bcrypt
+sqladmin
+itsdangerous
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
