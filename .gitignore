@@ -3,4 +3,3 @@
 __pycache__/
 model/robert-base-toxic/
 venv/
-alembic/
